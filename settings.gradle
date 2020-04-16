@@ -1,0 +1,2 @@
+rootProject.name='S4 Video Demo'
+include ':app'
