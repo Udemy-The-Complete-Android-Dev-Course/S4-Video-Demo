@@ -1,5 +1,5 @@
 # Video Demo
-  Simple demo app demonstrating how to add a controller that plays a video file in an Android app.
+  Simple app demonstrating how play a video.
 
 #### Versions
  - Android 6.0 Marshmallow 
