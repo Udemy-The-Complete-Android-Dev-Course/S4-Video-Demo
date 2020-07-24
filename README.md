@@ -1,5 +1,5 @@
 # Video Demo
-  Simple app demonstrating how play a video.
+  Simple app demonstrating how to play a video file.
 
 #### Versions
  - Android 6.0 Marshmallow 
